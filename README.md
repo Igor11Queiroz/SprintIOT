@@ -1,6 +1,9 @@
 # SprintIOT
 Sprint final de IoT
+
+
 Reflexão Sobre o Processo de Desenvolvimento e o Produto Final
+
 Desenvolver este site foi um projeto complicad que precisou várias etapas. Começamos pela criação do banco de dados, fazendo a organização e acessibilidade das informações. Encontramos problemas de conexão com o banco de dados que precisaram ser resolvidos ao longo do processo. O backend foi construído devagar, escrevendo código para que todas as funcionalidades funcionassem corretamente.
 tivemos várias dificuldades com Java. Houve problemas com as versões do Java, bugs inesperados e o gerenciamento de memória. Esses problemas deram bastante trabalho e precisaram de bastante tempo para resolver. Tivemos que depurar bastante o código para garantir que o app funcionasse bem. 
 Além do site, também desenvolvemos um aplicativo Android nativo, que também foi difícil .
